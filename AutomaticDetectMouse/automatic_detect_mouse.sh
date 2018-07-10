@@ -9,12 +9,12 @@ num_file_mouse="1"
 
 # ==============================================================================
 # Tempo usado para fazer as verificações
-tempo_do_sleep="60" # tempo em segundos
+tempo_do_sleep="10" # tempo em segundos
 
 # ==============================================================================
 # O nome do device, ou seja, do Touchpad é obtido através do comando
 # "xinput --list" (sem ""). No meu caso chama-se ETPS/2 Elantech Touchpad
-device_name="ETPS/2 Elantech Touchpad"
+device_name="DEVICENAME"
 
 # ============================== Principal =====================================
 # Ciclo infinito
