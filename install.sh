@@ -24,7 +24,7 @@ read -p "Insert touchpad device name: " deviceName
 
 # Install
 sudo cp -r $appFolder $pathApp
-sudo chmod -R 777 $pathApp$appFolder
+sudo chmod -R 755 $pathApp$appFolder
 
 # Create Desktop File
 echo "
